@@ -17,3 +17,5 @@ Important course news and announcements are posted here, so please check this `R
     - Send me an email jtran@csudh.edu and tell me a little bit about yourself, your interests and why you are taking this **Software Engineering Processes** class.
 
     - Register for a GitHub account (if you have not already done so) and learn Git.  If you are not sure where to begin, here is a good starting point: [Git & GitHub Crash Course For Beginners](https://youtu.be/SWYqp7iY_Tc)
+
+- 8/23/2017 Please take a look at the [Project Description](Project.md) and we will discuss it during the next class.
