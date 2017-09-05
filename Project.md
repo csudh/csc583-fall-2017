@@ -48,6 +48,6 @@ For our class, we will have a similar team structure.  The only difference is th
 
 Everyone in the class will be go through the development of the entire system.  One of the grading criteria is based on the LOC or line of code contributed via Git Pull requests.
 
-Ultimately the final product for the course is a completely working product.  We recognize that while there might be unfinished components, the system must work.  Consider the immortal words of Gene Krenz on the Apollo 13 mission:
+Ultimately the final product for the course is a completely working product.  We recognize that while there might be unfinished components, the system must work.  Consider the immortal words of Gene Kranz on the Apollo 13 mission:
 
 > Failure is not an option.
