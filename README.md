@@ -12,6 +12,10 @@ Please refer to the [syllabus](SYLLABUS.md) for more information on the administ
 
 Important course news and announcements are posted here, so please check this `README.md` file regularly.
 
+- 9/12/2017
+  - We watch [Angular vs React.js vs Vue.js My Thoughts!](https://www.youtube.com/watch?v=I7KA7YPW_1Q) today in class.  Please use this as a decision point for your [task](https://github.com/csudh/toro-net/issues/1#issuecomment-329060040).
+
+
 - 8/23/2017 Please take a look at the [Project Description](Project.md) and we will discuss it during the next class.
 
 - 8/22/2017 Please note that I will not be in class today do travel conflict.  Please complete the following tasks:
