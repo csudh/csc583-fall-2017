@@ -12,6 +12,9 @@ Please refer to the [syllabus](SYLLABUS.md) for more information on the administ
 
 Important course news and announcements are posted here, so please check this `README.md` file regularly.
 
+- 10/21/2017
+  - Reminder that we will meet in the Library today from 12 - 5 PM.  Please complete your second HW demo and be prepared for the midterm.
+
 - 9/12/2017
   - We watch [Angular vs React.js vs Vue.js My Thoughts!](https://www.youtube.com/watch?v=I7KA7YPW_1Q) today in class.  Please use this as a decision point for your [task](https://github.com/csudh/toro-net/issues/1#issuecomment-329060040).
 
